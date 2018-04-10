@@ -1,0 +1,204 @@
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\ApplicationInsights.config
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\SZRBD.Kadry.dll.config
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\SZRBD.Kadry.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\SZRBD.Kadry.pdb
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Antlr3.Runtime.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\EntityFramework.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\EntityFramework.SqlServer.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.Web.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.ApplicationInsights.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Google.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Newtonsoft.Json.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Owin.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\System.Web.Optimization.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\System.Web.Providers.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\WebGrease.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\System.Web.Optimization.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Antlr3.Runtime.pdb
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Newtonsoft.Json.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\EntityFramework.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\EntityFramework.SqlServer.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\System.Web.Providers.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Google.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.ApplicationInsights.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.Web.xml
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.csprojResolveAssemblyReference.cache
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.csproj.CoreCompileInputs.cache
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.dll
+c:\users\kroolik\source\repos\SZRBD.Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.pdb
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\ApplicationInsights.config
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\SZRBD.Kadry.dll.config
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\SZRBD.Kadry.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\SZRBD.Kadry.pdb
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Antlr3.Runtime.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\EntityFramework.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\EntityFramework.SqlServer.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.Web.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Newtonsoft.Json.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Owin.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\System.Web.Optimization.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\System.Web.Providers.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\WebGrease.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\System.Web.Optimization.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Antlr3.Runtime.pdb
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Newtonsoft.Json.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\EntityFramework.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\EntityFramework.SqlServer.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\System.Web.Providers.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\bin\Microsoft.AI.Web.xml
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.dll
+C:\Users\Tomek\source\repos\SZRBD.Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.pdb
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\ApplicationInsights.config
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\SZRBD.Kadry.dll.config
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\SZRBD.Kadry.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\SZRBD.Kadry.pdb
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Antlr3.Runtime.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\AspNet.ScriptManager.jQuery.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\EntityFramework.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\EntityFramework.SqlServer.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AI.DependencyCollector.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AI.Web.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AI.WindowsServer.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.ApplicationInsights.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Google.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Web.Infrastructure.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Newtonsoft.Json.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Owin.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\System.Web.Optimization.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\System.Web.Providers.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\WebGrease.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\System.Web.Optimization.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Antlr3.Runtime.pdb
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Newtonsoft.Json.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\EntityFramework.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\EntityFramework.SqlServer.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\System.Web.Providers.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Google.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.ApplicationInsights.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AI.DependencyCollector.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AI.WindowsServer.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\bin\Microsoft.AI.Web.xml
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.csprojResolveAssemblyReference.cache
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.csproj.CoreCompileInputs.cache
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.dll
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\SZRBD.Kadry\obj\Debug\SZRBD.Kadry.pdb
