@@ -1,0 +1,2 @@
+﻿INSERT INTO [Kadry].[dbo].[STANOWISKO] ([Nazwa_stanowisko],[Dzial]) VALUES
+('Kasjer','Sprzedaż'),('Kasjer','Sprzedaż'),('Kasjer','Sprzedaż'),('Kierownik sprzedaży','Kierownictwo'),('Menadżer reklamy','Marketing'),('Księgowa','Księgowość')
