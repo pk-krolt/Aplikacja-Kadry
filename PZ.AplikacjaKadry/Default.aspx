@@ -25,7 +25,7 @@
                 Przeszukaj dostępne oferty pracy i znajdź zatrudnienie w naszej firmie. Aplikacje można składać osobiście lub za pośrednictwem formularza online.
             </p>
             <p>
-                <a class="btn btn-default" href="/Job/Adverts">Dowiedz się więcej &raquo;</a>
+                <a class="btn btn-default" href="/Job/Adverts">Zobacz oferty &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
@@ -35,7 +35,7 @@
                 Skontaktuj się, w celu uzyskania więcej informacji na temat aplikacji Kadry.
             </p>
             <p>
-                <a class="btn btn-default" href="/Contact">Dowiedz się wiecej &raquo;</a>
+                <a class="btn btn-default" href="/Contact">Skontaktuj się z nami &raquo;</a>
             </p>
         </div>
     </div>
