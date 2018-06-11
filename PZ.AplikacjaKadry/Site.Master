@@ -87,7 +87,20 @@
             <div style="clear: both;"></div>
             <hr />
             <footer>
-                <p style="text-align:center;">Aplikacja Kadry &copy; <%: DateTime.Now.Year %> - Politechnika Koszalińska</p>
+                <div class="col-md-4"><h5>KADREX</h5><p>To najlepszy program do zarządzania kadrami pracowniczymi.</p></div>
+                <div class="col-md-4"><h5>Zawartość</h5>
+                    <ul>
+                        <li>Kadry</li>
+                        <li>Oferty pracy</li>
+                        <li>Wnioski o urlopy</li>
+                    </ul>
+
+                </div>
+                <div class="col-md-4">
+                    <h5>Linki</h5>
+
+                </div>
+                <!-- <p style="text-align:center;">Aplikacja Kadry &copy; <%: DateTime.Now.Year %> - Politechnika Koszalińska</p> -->
             </footer>
         </div>
     </form>

@@ -4,17 +4,17 @@
 
 
         <div class="row">
-            <div class="logo-jumbotron"><img src="Images/leaf_logo.png" /></div>
+            <div class="logo-jumbotron"><img src="Images/kadrex-top.jpg" /></div>
         </div>
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Aplikacja</h2>
+            <h2>Kadrex</h2>
             <p>
-                <img src="Images/software.jpg" width="350"  />
+                <img src="Images/KADREX.png" width="350"  />
             </p>
             <p>
-                Przykładowy tekst.
+                Program Kadrex to najlepszy program służący do zorganizowanego zarządzania kadrami pracowniczymi zarówno dla małych jak i dużych firm.
             </p>
 
         </div>

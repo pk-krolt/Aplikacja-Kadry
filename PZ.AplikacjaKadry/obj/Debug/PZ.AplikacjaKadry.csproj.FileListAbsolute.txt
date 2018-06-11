@@ -66,3 +66,4 @@ F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacj
 F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\PZ.AplikacjaKadry\obj\Debug\SZRBD.Kadry.dll
 F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\PZ.AplikacjaKadry\obj\Debug\SZRBD.Kadry.pdb
 F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\PZ.AplikacjaKadry\obj\Debug\PZ.AplikacjaKadry.csproj.CopyComplete
+F:\Nauka\STUDIA\AA_Moje\SEMESTR VI\Projekt Zespołowy\PZ.AplikacjaKadry\Aplikacja-Kadry\PZ.AplikacjaKadry\obj\Debug\PZ.AplikacjaKadry.csprojResolveAssemblyReference.cache
