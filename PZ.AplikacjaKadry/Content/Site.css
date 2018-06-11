@@ -36,3 +36,22 @@ input[type="select"] {
         padding: 0;
     }
 }
+
+
+footer {
+    position: relative;
+    float: left;
+    width: 100%;
+    margin: 0 auto;
+    height: 160px;
+    display: block;
+    background: #2aaacf;
+    padding: 20px 50px;
+    margin-bottom: -20px;
+    color: white;
+    font-family: Calibri;
+}
+
+h5{
+    font-weight: bold;
+}
