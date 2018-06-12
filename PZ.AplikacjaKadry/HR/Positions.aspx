@@ -2,14 +2,35 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 
-
-
     <div class="row">
         <div class="col-md-9">
             <h3 class="about-header">Stanowiska</h3>
             <hr />
         </div>
     </div>
+
+    <div class="col-md-3 nav-left">
+        <div class="row">
+            <asp:LoginView runat="server" ViewStateMode="Disabled">
+                <RoleGroups>
+                    <asp:RoleGroup Roles="Manager, Administrator">
+                        <ContentTemplate>
+                            <h4>Zarządzanie</h4>
+                            <ul class="list-group">
+                                <li class="list-group-item"><a href="Departments.aspx">Zarządzaj kadrą</a></li>
+                                <li class="list-group-item active"><a style="color: white !important;" href="Positions.aspx">Zarządzaj stanowiskami</a></li>
+                                <li class="list-group-item"><a href="AddPosition.aspx">Dodaj stanowisko</a></li>
+                                <li class="list-group-item"><a href="AddEmployee.aspx">Dodaj pracownika</a></li>
+                                
+                                
+                            </ul>
+                        </ContentTemplate>
+                    </asp:RoleGroup>
+                </RoleGroups>
+            </asp:LoginView>
+        </div>
+    </div>
+
     <div class="col-md-9">
         <div class="row">
                 <asp:Label runat="server" ID="ErrorMessage" ></asp:Label>
@@ -64,25 +85,6 @@
 
     </div>
 
-    <div class="col-md-3 nav-fixed-right">
-        <div class="row">
-            <asp:LoginView runat="server" ViewStateMode="Disabled">
-                <RoleGroups>
-                    <asp:RoleGroup Roles="Manager, Administrator">
-                        <ContentTemplate>
-                            <h4>Zarządzaj</h4>
-                            <ul class="list-group">
-                                <li class="list-group-item"><a href="AddPosition.aspx">Dodaj stanowisko</a></li>
-                                <li class="list-group-item"><a href="AddEmployee.aspx">Dodaj pracownika</a></li>
-                                <li class="list-group-item active"><a style="color: white !important;" href="Positions.aspx">Zarządzaj stanowiskami</a></li>
-                                <li class="list-group-item"><a href="Departments.aspx">Kadra pracownicza</a></li>
-                            </ul>
-                        </ContentTemplate>
-                    </asp:RoleGroup>
-                </RoleGroups>
-            </asp:LoginView>
-        </div>
-    </div>
 
 
 

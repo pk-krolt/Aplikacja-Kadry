@@ -55,3 +55,7 @@ footer {
 h5{
     font-weight: bold;
 }
+
+.nav-left {
+    padding-right: 40px;
+}

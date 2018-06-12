@@ -70,7 +70,7 @@
                         </AnonymousTemplate>
                         <LoggedInTemplate>
                             <ul class="nav navbar-nav navbar-right">
-                                <li><a runat="server" href="" title="Manage your account">Zalogowano: <%: Context.User.Identity.GetUserName()  %></a></li>
+                                <li><a runat="server" href="#" title="Manage your account">Zalogowano: <%: Context.User.Identity.GetUserName()  %></a></li>
                                 <li><a runat="server" href="~/Account/Manage" title="Manage your account">Ustawienia</a></li>
                                 <li>
                                     <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Wyloguj się" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
