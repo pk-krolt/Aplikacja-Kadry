@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3 class="about-header">King Kadry</h3>
+    <h3 class="about-header">Aplikacja Kadrex</h3>
         <img src="http://sharpsoft.pl/images/article-banners/banner-o-firmie.png" style="padding: 4px; border: 1px solid #ddd; margin: 10px; float: left;" width="300" />
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc a nibh non velit tincidunt rhoncus. Phasellus sapien elit, rutrum id nunc vel, aliquet pretium nunc. Donec ut tortor sem. Nam in tellus lectus. Pellentesque finibus diam et justo iaculis, sit amet vehicula ex laoreet. Maecenas pharetra id lacus gravida consequat. Vivamus accumsan fringilla nisl, vitae aliquet nulla. Duis laoreet, eros id eleifend varius, quam tellus fermentum augue, eu aliquet eros metus ac tortor.
         Curabitur turpis ligula, vehicula ac ultricies at, viverra at nibh. Aliquam sed mi iaculis, dignissim lectus eu, imperdiet quam. Nunc laoreet ultrices odio sit amet pretium. Donec suscipit mauris non nunc aliquet, nec vehicula sem tempor. Curabitur volutpat dui et velit tempus, id faucibus nunc semper. Vivamus tincidunt eu tortor et feugiat. Sed vel leo a ex volutpat malesuada euismod eget turpis. Fusce finibus, nibh ac rhoncus venenatis, sapien dui sodales leo, id consequat risus elit vitae nisi.

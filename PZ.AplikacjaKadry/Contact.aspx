@@ -2,11 +2,11 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    <h3>W razie pytań skontaktuj się z nami</h3>
-    <div class="col-md-2">
-        <img src="Images/leaf_logo.png" width="150"/>
+    <h4>W razie pytań lub problemów z aplikacją skontaktuj się z naszą grupą wsparcia aplikacji Kadrex.</h4>
+    <div class="col-md-4">
+        <img src="/Images/KADREX.png" width="350"/>
     </div>
-    <div class="col-md-10">
+    <div class="col-md-8">
     <address style="margin-top: 10px;">
         ul. Śniadeckich<br />
         75-004 Koszalin<br />
@@ -15,7 +15,7 @@
     </address>
 
     <address>
-        <strong>Support:</strong>   <a href="mailto:krouliko@gmail.com">krouliko@gmail.com</a><br />
+        <strong>Support:</strong>   <a href="mailto:support@kadrex.corp.com">support@kadrex.corp.com</a><br />
     </address>
         </div>
 </asp:Content>
