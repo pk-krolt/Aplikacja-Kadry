@@ -68,16 +68,6 @@
                                 <tr id="ItemPlaceholder" runat="server">
                                 </tr>
                             </tr>
-                            <tr id="Tr2" runat="server">
-                                <td id="Td6" runat="server" class="text-center" colspan="5">
-                                    <asp:DataPager ID="DataPager1" runat="server">
-                                        <Fields>
-                                            <asp:NextPreviousPagerField ButtonType="Link" />
-                                            <asp:NumericPagerField />
-                                        </Fields>
-                                    </asp:DataPager>
-                                </td>
-                            </tr>
                             </table>
                     </LayoutTemplate>
                 </asp:ListView>

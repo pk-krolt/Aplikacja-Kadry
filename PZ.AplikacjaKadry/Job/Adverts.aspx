@@ -3,17 +3,13 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
   <div class="row" style="margin-bottom: 20px;">
     <div class="col-md-6">
-            <h3 class="about-header">Oferty pracy</h3>
+            <h3 class="about-header">Nasze oferty pracy</h3>
     </div>
     <div class="col-md-6 text-right" style="margin-top: 38px;">
         <asp:LoginView runat="server" ViewStateMode="Disabled">
             <RoleGroups>
                 <asp:RoleGroup Roles="Manager, Administrator">
                     <ContentTemplate>
-                            <a href="#" class="btn btn-link btn-xs">Wszystkie</a>
-                            <a href="#" class="btn btn-link btn-xs">Aktywne</a>
-                            <a href="#" class="btn btn-link btn-xs">Nieaktywne</a>
-                            <a href="#" class="btn btn-link btn-xs">Zakończone</a>
                             <a href="AddAdvert.aspx" class="btn btn-info">Dodaj ogłoszenie</a>
                     </ContentTemplate>
                 </asp:RoleGroup>
