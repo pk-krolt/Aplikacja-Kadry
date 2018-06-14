@@ -188,6 +188,9 @@
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="Account\ResetPassword.aspx" />
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
+    <Content Include="Applications\DispEmplRequest.aspx" />
+    <Content Include="Applications\Employment.aspx" />
+    <Content Include="Applications\Holidays.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
@@ -216,6 +219,7 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="Job\Web.config" />
+    <Content Include="Applications\Web.config" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="HR\Departments.aspx" />
@@ -364,6 +368,27 @@
     <Compile Include="Account\ResetPasswordConfirmation.aspx.designer.cs">
       <DependentUpon>ResetPasswordConfirmation.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Applications\DispEmplRequest.aspx.cs">
+      <DependentUpon>DispEmplRequest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Applications\DispEmplRequest.aspx.designer.cs">
+      <DependentUpon>DispEmplRequest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Applications\Employment.aspx.cs">
+      <DependentUpon>Employment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Applications\Employment.aspx.designer.cs">
+      <DependentUpon>Employment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Applications\Holidays.aspx.cs">
+      <DependentUpon>Holidays.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Applications\Holidays.aspx.designer.cs">
+      <DependentUpon>Holidays.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -385,6 +410,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helper.cs" />
     <Compile Include="HR\AddEmployee.aspx.cs">
       <DependentUpon>AddEmployee.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -498,7 +524,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Applications\" />
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
