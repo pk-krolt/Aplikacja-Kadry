@@ -87,20 +87,16 @@
             <div style="clear: both;"></div>
             <hr />
             <footer>
-                <div class="col-md-4"><h5>KADREX</h5><p>To najlepszy program do zarządzania kadrami pracowniczymi.</p></div>
-                <div class="col-md-4"><h5>Zawartość</h5>
-                    <ul>
-                        <li>Kadry</li>
-                        <li>Oferty pracy</li>
-                        <li>Wnioski o urlopy</li>
-                    </ul>
-
+                <div class="row">
+                <div class="col-md-4" style="border-right: 1px solid #dbdbdb;"><h5>KADREX</h5><p>To jeden z najlepszych programów do zarządzania kadrami pracowniczymi zarówno dla małych jak i dużych firm.</br></br></br></p></div>
+                <div class="col-md-8"><h5>Informacje prawne</h5>
+                   Prawa do zawartości niniejszej strony internetowej przysługują zespołowi Politechniki Koszalińskiej założonego dn. 11.03.2018r. w Koszalinie. Wszelkie prawa zastrzeżone. Niedozwolona jest modyfikacja tej zawartości i jej powielanie. Twórcy strony nie biorą odpowiedzialności za szkody wyrządzone przez niewłaściwe korzystanie z aplikacji.
                 </div>
-                <div class="col-md-4">
-                    <h5>Linki</h5>
-
                 </div>
-                <!-- <p style="text-align:center;">Aplikacja Kadry &copy; <%: DateTime.Now.Year %> - Politechnika Koszalińska</p> -->
+                <div class="row">
+                    <div class="col-md-4"></div>
+                 <div class="col-md-8"><p style="text-align:center;">Aplikacja Kadrex &copy; <%: DateTime.Now.Year %> - Politechnika Koszalińska Projekt Zespołowy</p> </div>
+                    </div>
             </footer>
         </div>
     </form>
