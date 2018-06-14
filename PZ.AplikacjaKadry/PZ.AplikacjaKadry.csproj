@@ -188,6 +188,8 @@
     <Content Include="Account\RegisterExternalLogin.aspx" />
     <Content Include="Account\ResetPassword.aspx" />
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
+    <Content Include="Applications\DispEmplRequest.aspx" />
+    <Content Include="Applications\Employment.aspx" />
     <Content Include="Applications\Holidays.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
@@ -216,6 +218,8 @@
     <Content Include="HR\Web.config">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="Job\Web.config" />
+    <Content Include="Applications\Web.config" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="HR\Departments.aspx" />
@@ -230,6 +234,10 @@
     <Content Include="Images\logo_black.png" />
     <Content Include="Images\logo_white.png" />
     <Content Include="Images\software.jpg" />
+    <Content Include="Job\AddAdvert.aspx" />
+    <Content Include="Job\Advert.aspx" />
+    <Content Include="Job\Adverts.aspx" />
+    <Content Include="Job\EditAdvert.aspx" />
     <Content Include="Login.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -360,6 +368,20 @@
     <Compile Include="Account\ResetPasswordConfirmation.aspx.designer.cs">
       <DependentUpon>ResetPasswordConfirmation.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Applications\DispEmplRequest.aspx.cs">
+      <DependentUpon>DispEmplRequest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Applications\DispEmplRequest.aspx.designer.cs">
+      <DependentUpon>DispEmplRequest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Applications\Employment.aspx.cs">
+      <DependentUpon>Employment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Applications\Employment.aspx.designer.cs">
+      <DependentUpon>Employment.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Applications\Holidays.aspx.cs">
       <DependentUpon>Holidays.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -388,6 +410,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helper.cs" />
     <Compile Include="HR\AddEmployee.aspx.cs">
       <DependentUpon>AddEmployee.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -437,6 +460,34 @@
     <Compile Include="HR\Positions.aspx.designer.cs">
       <DependentUpon>Positions.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Job\AddAdvert.aspx.cs">
+      <DependentUpon>AddAdvert.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Job\AddAdvert.aspx.designer.cs">
+      <DependentUpon>AddAdvert.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Job\Advert.aspx.cs">
+      <DependentUpon>Advert.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Job\Advert.aspx.designer.cs">
+      <DependentUpon>Advert.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Job\Adverts.aspx.cs">
+      <DependentUpon>Adverts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Job\Adverts.aspx.designer.cs">
+      <DependentUpon>Adverts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Job\EditAdvert.aspx.cs">
+      <DependentUpon>EditAdvert.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Job\EditAdvert.aspx.designer.cs">
+      <DependentUpon>EditAdvert.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Login.aspx.cs">
       <DependentUpon>Login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -444,7 +495,10 @@
     <Compile Include="Login.aspx.designer.cs">
       <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Models\Advert.cs" />
+    <Compile Include="Models\EmploymentRequest.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Position.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
@@ -471,7 +525,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Job\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

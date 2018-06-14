@@ -9,12 +9,12 @@
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Kadrex</h2>
+            <h2>Witaj na pokładzie</h2>
             <p>
                 <img src="Images/KADREX.png" width="350"  />
             </p>
             <p>
-                Program Kadrex to najlepszy program służący do zorganizowanego zarządzania kadrami pracowniczymi zarówno dla małych jak i dużych firm.
+                Witaj na stronie oprogramowania Kadrex. Zaloguj się w celu uzyskania dostępu do pełnej funkcjonalności aplikacji.
             </p>
 
         </div>
